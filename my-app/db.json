@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "name": "Yash",
+      "email": "yash@gmail.com",
+      "address": "Lel",
+      "phone": 87987877656,
+      "id": 1
+    },
+    {
+      "name": "Rishi",
+      "email": "Rishi@gmail.com",
+      "address": "Bhaktapur",
+      "phone": "9878894834",
+      "id": 5
+    },
+    {
+      "name": "Arisha",
+      "email": "Arisha@gmail.com",
+      "address": "Jharuwarashi",
+      "phone": "9840279401",
+      "id": 16
+    },
+    {
+      "name": "Hari Acharaya",
+      "email": "hari123@gmail.com",
+      "address": "Bhaktapur",
+      "phone": "9867584918",
+      "id": 18
+    },
+    {
+      "name": "Bijay",
+      "email": "bijay@gmail.com",
+      "address": "Rautahar",
+      "phone": "9867584918",
+      "id": 19
+    },
+    {
+      "name": "Bikash",
+      "email": "Sanjok@gmail.com",
+      "phone": "9840279404",
+      "address": "Bhaktapur",
+      "id": 20
+    }
+  ]
+}
